@@ -140,13 +140,13 @@ while($row=mysql_fetch_array($ret))
 
         Fax: 020-200-2002<br />
 
-        Email: info [at] AUCTIONING FORUM</p>
+        Email: shans_auctioning2022@gmail.com</p>
 
     </div>
 
   </div>
 
-  <div id="templatemo_footer">Copyright ©  Your AUCTIONING FORUM | Designed by <a href="" target="_parent" title="">Live Technologies</a></div>
+  <div id="templatemo_footer">Copyright ©  Your AUCTIONING FORUM | Designed by <a href="" target="_parent" title="">SHANS</a></div>
 
 </div>
 </body>

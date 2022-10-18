@@ -123,10 +123,6 @@ $count=mysql_result($qry,$i,"comment");
     <td class="mem_list"><?php echo $topic; ?></td>
     <td class="mem_list"><?php echo $idea; ?></td>
     <td class="mem_list"><?php echo $count; ?></td>
-   
-	
-       
-  
     </tr>
     <?php
 	$i++;
